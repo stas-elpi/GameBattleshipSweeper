@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  game.cpp
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(60,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(72,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(101,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(102,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(220,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(221,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(241,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(257,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(258,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(326,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\BattleshipSweeperFinal\game.cpp(327,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BattleshipSweeperFinal.vcxproj -> C:\MyPC\Attachments\Desktop\BattleshipSweeperFinal\bin\BattleshipSweeperFinald.exe
